@@ -1,0 +1,28 @@
+nav div {
+    margin: auto;
+    text-align: center;
+    padding-top: 2%;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container .btn-download {
+    background-color: #4C92CD;
+    border: none;
+    border-radius: 30%;
+    padding: 10px;
+    color: white;
+}
+.container .btn-download span {
+    color: #5CC4E3;
+}
+
+.container .btn-what {
+    background-color: #915CE3;
+    border: none;
+    border-radius: 30%;
+    padding: 10px;
+    color: white;
+}
